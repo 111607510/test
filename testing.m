@@ -1,7 +1,7 @@
 %% Improved_DnCNN_LSTM_Training.m
 % 改進版：讓DnCNN+LSTM接近Pure ISI效果
 clear; close all; clc;
-
+testinga = 1;
 %% ====================== 0) 參數設定 ======================
 symbolRate = 1e3; 
 Ts = 1/symbolRate;
